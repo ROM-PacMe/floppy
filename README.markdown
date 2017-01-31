@@ -11,6 +11,6 @@ Steps:
 
 You can upload your change to gerrit with commands like these:
 
-    git add lineage-build-targets
+    git add crow-build-targets
     git commit
     git review
